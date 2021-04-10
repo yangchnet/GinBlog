@@ -17,5 +17,5 @@ type ArticleSwagger struct {
 }
 
 func (a Article) TableName() string {
-	return "blog_articlt"
+	return "blog_article"
 }
